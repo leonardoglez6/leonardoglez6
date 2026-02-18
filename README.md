@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🦈, I'm Leonardo Daniel González López</h1>
-<h3 align="center">A motivated student of the Genomics Sciences program in the UNAM.</h3>
+<h1 align="center">🦈 Hi hellooo, I'm Leonardo Daniel González López!!! 🦈</h1>
+<h3 align="center">I am a motivated student of the Genomics Sciences program in the UNAM and part of the Genome Evolution Laboratory at LIIGH UNAM.</h3>
 
 - 🔭 I’m currently working on **isolating *Saccharomyces paradoxus* from agave fermentations.**
 
