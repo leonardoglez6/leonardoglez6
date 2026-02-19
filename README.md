@@ -10,7 +10,7 @@
 
 - 📧 How to reach me **minestev17@gmail.ocm**
 
-- 🌊 Fun fact **I love sharks and my favorite R color is cornflower blue.**
+- 🌊 Fun fact **I love sharks and my favorite R color is cornflowerblue.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img
